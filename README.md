@@ -34,5 +34,4 @@ This project uses the **MiDaS** model to generate a depth map, then converts it 
 
 ---
 
-## 🗂️ Project Structure
 
