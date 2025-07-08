@@ -15,11 +15,6 @@ This project uses the **MiDaS** model to generate a depth map, then converts it 
 
 ---
 
-## 🌍 Live Demo
-
-> Coming soon on Streamlit Cloud...
-
----
 
 ## 🧪 Sample Input → Output
 
